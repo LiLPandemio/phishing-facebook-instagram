@@ -1,2 +1,5 @@
 # phishing-facebook-instagram
-PHP Phishing set ready to run. Deploy in www or htdocs or public folder. EDUCATIONAL PURPOSE ONLY.
+Kit de phishing para facebook e instagram.
+
+<h2>How to use</h2>
+Crea los archivos keylogger.txt y passworder.txt y ponlos junto a ax.php
